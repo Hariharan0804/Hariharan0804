@@ -25,14 +25,12 @@
 * Matplotlib
 * Seaborn
 * Scikit-Learn
-* TensorFlow
 
 🚀 Currently Learning
 
 * Advanced Machine Learning
 * Deep Learning
 * Data Structures & Algorithms
-* System Design
 
 🔬 Featured Projects
 
@@ -51,33 +49,16 @@
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
 </p>
 
 <p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/>
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariharan0804\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan0804\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hariharan0804\&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Hariharan0804\&theme=tokyonight\&row=1\&column=6)
 
 ---
 
